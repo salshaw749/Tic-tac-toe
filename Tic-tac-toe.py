@@ -1,8 +1,6 @@
 print("Hey Dear.. you're playing a tic tac toe")
 print("Please choose your desierd shape to play with X or O")
 
-# p1=input("Hey First Player .. please choose your shape: ")
-# p2=input("Hey Second Player .. please choose your shape: ")
 
 arr = [
     [0,1,2],
